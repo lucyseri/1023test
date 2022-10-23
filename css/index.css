@@ -67,7 +67,7 @@ main section h2 {
 
 main #sec1 {
   width: 100%;
-  height: 100vh;
+  height: 938px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -112,7 +112,7 @@ main #sec2 .sec2-con{
   width: 100%;
 }
 main #sec2 .sec2-con.contents1{
-  height: 100vh;
+  height: 938px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -150,7 +150,7 @@ main #sec2 .sec2-con.contents2{
 }
 main #sec2 .sec2-con.contents2 .content2-yoon, .content2-sin{
   flex: 0 1 45vw;
-  height: 100vh;
+  height: 938px;
   display: flex;
   align-items: center;
   gap: 40px;
@@ -183,7 +183,7 @@ main #sec2 .sec2-con.contents2 .content2-sin ul{
   gap: 20px;
 }
 main #sec2 .sec2-con.contents3{
-  height: 100vh;
+  height: 938px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -193,7 +193,6 @@ main #sec2 .sec2-con.contents3 .sec2-con3{
   height: auto;
 }
 main #sec2 .sec2-con.contents3 .video-con{
-  /* flex: 0 1 600px; */
   margin: 0 auto;
   width: 100%;
   max-width: 600px;
@@ -204,7 +203,6 @@ main #sec2 .sec2-con.contents3 .video-con video{
   display: block;
 }
 main #sec2 .sec2-con.contents3 .img-con{
-  /* flex: 0 1 900px; */
   width: 100%;
   max-width: 1000px;
   margin: 0 auto;
